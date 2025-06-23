@@ -1,4 +1,3 @@
-
 # 🎯Number Guessing Game
 This is a simple Number Guessing Game written in C, where the computer generates a random number between 1 and 100, and the user tries to guess it. The program provides hints whether the guessed number is too high or too low until the correct number is guessed.
 
